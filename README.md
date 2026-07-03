@@ -99,6 +99,4 @@ After successful compilation, run the executable:
    - All changes are saved automatically when you exit the program.
 
 
-## Contact
 
-For any queries or feedback regarding this project, please contact dharajiya23@iitk.ac.in.
